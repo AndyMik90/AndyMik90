@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dove-banner.svg" alt="Aperant — Autonomous AI Coding" width="100%"/>
+  <a href="https://aperant.com"><img src="dove-banner.svg" alt="Aperant — Autonomous AI Coding" width="100%"/></a>
 </p>
 
 <p align="center">
