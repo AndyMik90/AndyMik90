@@ -16,9 +16,3 @@
   <a href="https://discord.gg/clawd">💬 Discord</a> ·
   <a href="https://aperant.com">🌐 aperant.com</a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndyMik90&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C5A94E&icon_color=C5A94E&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
