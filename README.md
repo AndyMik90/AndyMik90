@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building <a href="https://github.com/AndyMik90/Auto-Claude">Aperant</a> — the world's first autonomous multi-session AI coding platform.<br>
+  Building <a href="https://github.com/AndyMik90/Auto-Claude">Aperant</a> (formerly Auto-Claude) — complete AI coding for production.<br>
   Streaming the journey live Mon/Wed/Fri.
 </p>
 
