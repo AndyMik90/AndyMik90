@@ -13,6 +13,6 @@
 
 <p align="center">
   <a href="https://youtube.com/@andremikalsen">📺 YouTube</a> ·
-  <a href="https://discord.gg/clawd">💬 Discord</a> ·
+  <a href="https://discord.gg/QhRnz9m5HE">💬 Discord</a> ·
   <a href="https://aperant.com">🌐 aperant.com</a>
 </p>
